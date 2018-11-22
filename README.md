@@ -23,4 +23,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![https://lh3.googleusercontent.com/FyZA5SbKPJA7Y3XCeb9-uGwow8pugxj77Z1xvs8vFS6EI3FABZDCDtA9ScqzHKjhU8av_Ck95ET-P_rPJCbC2v_OswCN8A=s688](src)
+
+![Image](http://blog.yaoyumeng.com/assets/post-images/2014-05-06-25a775cf-7941-4c9b-f696-482e3af1e009.bmp)
