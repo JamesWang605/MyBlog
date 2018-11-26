@@ -24,4 +24,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Image](http://blog.yaoyumeng.com/assets/post-images/2014-05-06-25a775cf-7941-4c9b-f696-482e3af1e009.bmp)
+![Image](http://thyrsi.com/t6/616/1543198818x1822612407.jpg)
