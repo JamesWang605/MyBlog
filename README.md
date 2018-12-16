@@ -1,12 +1,15 @@
 # Welcome
 
-Welcome to My Blog
+Welcome to My Blog. Here, you can see projects and works I have done in school and at home.
 
+
+   <img src="http://thyrsi.com/t6/616/1543198818x1822612407.jpg" width="30%" height="30%">      <img src="http://thyrsi.com/t6/616/1543199134x1822612407.jpg" width="30%" height="30%">      <img src="http://thyrsi.com/t6/616/1543199152x1822612407.jpg" width="30%" height="30%">
+
+```markdown
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -23,4 +26,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-   <img src="http://thyrsi.com/t6/616/1543198818x1822612407.jpg" width="30%" height="30%">      <img src="http://thyrsi.com/t6/616/1543199134x1822612407.jpg" width="30%" height="30%">      <img src="http://thyrsi.com/t6/616/1543199152x1822612407.jpg" width="30%" height="30%">
