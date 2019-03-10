@@ -1,6 +1,6 @@
 # Welcome
 
-   I am James Wang, welcome to My Blog. Here, you can see projects and works I have done in school and at home.
+   I am James Wang, welcome to My Blog. Here, you can see projects and works I have done in school and at home.  
 
 ## My Projects
    Here are some projects I have done for engineering and computer science, 
